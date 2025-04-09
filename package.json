@@ -13,7 +13,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://jcline7774.github.io/john-cline-resume",
+  "homepage": "https://jcline7774.github.io/John-cline-resume",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages --dist build ",
