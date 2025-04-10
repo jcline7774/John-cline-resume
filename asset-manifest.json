@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/John-cline-resume/static/css/main.e4a21a27.css",
-    "main.js": "/John-cline-resume/static/js/main.1285f627.js",
+    "main.css": "/John-cline-resume/static/css/main.f638b6bd.css",
+    "main.js": "/John-cline-resume/static/js/main.3a17a4fc.js",
     "static/js/453.55dd63a0.chunk.js": "/John-cline-resume/static/js/453.55dd63a0.chunk.js",
     "static/media/IMG_4246.jpg": "/John-cline-resume/static/media/IMG_4246.dc005f00c31212206d0d.jpg",
     "static/media/infinityV.png": "/John-cline-resume/static/media/infinityV.d2964394efd296e4458e.png",
+    "static/media/AH.jpg": "/John-cline-resume/static/media/AH.ae056a329750f173ed1e.jpg",
     "static/media/infinity7.png": "/John-cline-resume/static/media/infinity7.931d9df59c28fd7987e7.png",
+    "static/media/ECS.jpg": "/John-cline-resume/static/media/ECS.721ca0e8be8713fc97b2.jpg",
+    "static/media/TB.jpg": "/John-cline-resume/static/media/TB.9f75cb41686543c722fa.jpg",
     "static/media/sx.png": "/John-cline-resume/static/media/sx.fb99283e1d3145447b24.png",
     "static/media/sl.png": "/John-cline-resume/static/media/sl.d3929aec54d2f4c0a04f.png",
     "static/media/sg.png": "/John-cline-resume/static/media/sg.e45a2cec0e8407b1ec34.png",
     "index.html": "/John-cline-resume/index.html",
-    "main.e4a21a27.css.map": "/John-cline-resume/static/css/main.e4a21a27.css.map",
-    "main.1285f627.js.map": "/John-cline-resume/static/js/main.1285f627.js.map",
+    "main.f638b6bd.css.map": "/John-cline-resume/static/css/main.f638b6bd.css.map",
+    "main.3a17a4fc.js.map": "/John-cline-resume/static/js/main.3a17a4fc.js.map",
     "453.55dd63a0.chunk.js.map": "/John-cline-resume/static/js/453.55dd63a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4a21a27.css",
-    "static/js/main.1285f627.js"
+    "static/css/main.f638b6bd.css",
+    "static/js/main.3a17a4fc.js"
   ]
 }
