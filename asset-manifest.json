@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/John-cline-resume/static/css/main.f638b6bd.css",
-    "main.js": "/John-cline-resume/static/js/main.3a17a4fc.js",
+    "main.css": "/John-cline-resume/static/css/main.1afe9447.css",
+    "main.js": "/John-cline-resume/static/js/main.340e3d7d.js",
     "static/js/453.55dd63a0.chunk.js": "/John-cline-resume/static/js/453.55dd63a0.chunk.js",
     "static/media/IMG_4246.jpg": "/John-cline-resume/static/media/IMG_4246.dc005f00c31212206d0d.jpg",
     "static/media/infinityV.png": "/John-cline-resume/static/media/infinityV.d2964394efd296e4458e.png",
@@ -13,12 +13,12 @@
     "static/media/sl.png": "/John-cline-resume/static/media/sl.d3929aec54d2f4c0a04f.png",
     "static/media/sg.png": "/John-cline-resume/static/media/sg.e45a2cec0e8407b1ec34.png",
     "index.html": "/John-cline-resume/index.html",
-    "main.f638b6bd.css.map": "/John-cline-resume/static/css/main.f638b6bd.css.map",
-    "main.3a17a4fc.js.map": "/John-cline-resume/static/js/main.3a17a4fc.js.map",
+    "main.1afe9447.css.map": "/John-cline-resume/static/css/main.1afe9447.css.map",
+    "main.340e3d7d.js.map": "/John-cline-resume/static/js/main.340e3d7d.js.map",
     "453.55dd63a0.chunk.js.map": "/John-cline-resume/static/js/453.55dd63a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f638b6bd.css",
-    "static/js/main.3a17a4fc.js"
+    "static/css/main.1afe9447.css",
+    "static/js/main.340e3d7d.js"
   ]
 }
